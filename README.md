@@ -75,7 +75,7 @@ I enjoy solving problems, exploring new technologies and building practical appl
 
 | Project | Description | Technologies |
 |---|---|---|
-| [SpeechTranscriber](https://github.com/kamran-bisati/SpeechTranscriber) | Deep Learning-based speech recognition system | Python, PyTorch |
+| SpeechTranscriber | Deep Learning-based speech recognition system | Python, PyTorch |
 | Personal Training & Fatigue Analyzer | Fitness and fatigue analysis application | Python, Data Analysis |
 | Supply-Chainer | Collaborative supply-chain management project | Web Development, Git |
 
