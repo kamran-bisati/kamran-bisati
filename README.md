@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Kamran Tariq 👋
 
-<!--
-**kamran-bisati/kamran-bisati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Python Developer | ML & AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about building practical software solutions and exploring intelligent technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on Machine Learning and AI projects.
+- 🌱 Learning Data Structures, Machine Learning, Deep Learning and Automation.
+- 💻 Interested in Python, C++, AI/ML and Software Development.
+- 🚀 Focused on building real-world projects and improving my problem-solving skills.
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C++
+- C
+
+**Libraries & Frameworks**
+- PyTorch
+- NumPy
+- Pandas
+- Streamlit
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+### 🚀 Featured Projects
+
+- **SpeechTranscriber** – Speech recognition system using Deep Learning, PyTorch and CTC-based transcription.
+- **Personal Training & Fatigue Analyzer** – A project focused on fitness analysis and fatigue monitoring.
+- **Supply-Chainer** – Collaborative supply-chain management project.
+
+### 📫 Connect With Me
+
+- LinkedIn: [www.linkedin.com/in/kamran-tariq-995747361]
+- Email: [kamrantariq229@gmail.com]
+
+---
+
+⭐ Always learning, building and exploring new technologies.
