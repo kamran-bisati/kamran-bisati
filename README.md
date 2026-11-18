@@ -1,43 +1,69 @@
+<!-- HEADER -->
+
+<div align="center">
+
 # Hi, I'm Kamran Tariq 👋
 
-### Computer Science Engineering Student | Python Developer | ML & AI Enthusiast
+### Computer Science Student | Python Developer | AI/ML Enthusiast
 
-I'm a Computer Science Engineering student passionate about building practical software solutions and exploring intelligent technologies.
+*Building today, innovating for tomorrow.*
 
-- 🔭 Currently working on Machine Learning and AI projects.
-- 🌱 Learning Data Structures, Machine Learning, Deep Learning and Automation.
-- 💻 Interested in Python, C++, AI/ML and Software Development.
-- 🚀 Focused on building real-world projects and improving my problem-solving skills.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamran-bisati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-tariq-995747361/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamrantariq229@gmail.com)
 
-### 🛠️ Tech Stack
-
-**Languages**
-- Python
-- C++
-- C
-
-**Libraries & Frameworks**
-- PyTorch
-- NumPy
-- Pandas
-- Streamlit
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-
-### 🚀 Featured Projects
-
-- **SpeechTranscriber** – Speech recognition system using Deep Learning, PyTorch and CTC-based transcription.
-- **Personal Training & Fatigue Analyzer** – A project focused on fitness analysis and fatigue monitoring.
-- **Supply-Chainer** – Collaborative supply-chain management project.
-
-### 📫 Connect With Me
-
-- LinkedIn: [www.linkedin.com/in/kamran-tariq-995747361]
-- Email: [kamrantariq229@gmail.com]
+</div>
 
 ---
 
-⭐ Always learning, building and exploring new technologies.
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 👨‍💻 About Me
+
+I'm a Computer Science Engineering student passionate about software development, Artificial Intelligence and Machine Learning.
+
+I enjoy solving problems, exploring new technologies and building practical applications.
+
+- 🔭 Working on AI/ML projects
+- 🌱 Learning Deep Learning and Software Engineering
+- 💡 Interested in intelligent systems and automation
+- 🎯 Focused on building real-world projects
+- 🤝 Open to collaboration and learning opportunities
+
+</td>
+<td width="45%" valign="top">
+
+## 📊 GitHub Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-bisati&layout=compact&theme=github_dark&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### AI / ML & Data Science
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4
